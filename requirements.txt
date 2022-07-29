@@ -1,0 +1,8 @@
+datalad
+matplotlib
+nibabel
+nilearn
+numpy
+pandas
+pybids
+dipy
